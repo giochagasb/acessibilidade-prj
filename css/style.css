@@ -1,0 +1,11 @@
+.text-justify {
+    text-align: justify;
+}
+
+.button-accordion{
+    background-color: #0d0d0d!important;
+    color: #fff!important;
+}
+.accordion-button:focus{
+    box-shadow: 0px 0px 0px 2px #0d0d0d2f!important;
+}
