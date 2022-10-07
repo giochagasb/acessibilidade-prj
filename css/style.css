@@ -1,11 +1,24 @@
+:root{
+    --corEscuro:#0d0d0d;
+    --corClaro:#f2f2f2;
+    --corCinzaClaro:#bfbfbf;
+    --corCinza:#8c8c8c;
+    --corCinzaEscuro:#595959;
+}
 .text-justify {
     text-align: justify;
 }
 
 .button-accordion{
-    background-color: #0d0d0d!important;
+    background-color: var(--corEscuro)!important;
     color: #fff!important;
 }
 .accordion-button:focus{
-    box-shadow: 0px 0px 0px 2px #0d0d0d2f!important;
+    box-shadow: 0px 0px 0px 2px var(--corEscuro)!important;
+}
+.bg-banner{
+    background-color: var(--corEscuro);
+}
+.navbar-dark .nav{
+    --bs-nav-link-color:var(--corClaro);
 }
