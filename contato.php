@@ -17,13 +17,28 @@
     <body id="contato">
     <?php include_once('php/header.php'); ?>
 
-        <div class="  my-5 container d-flex align-items-center flex-column">
+        
+        <main class="container">
+        <h3 class="row justify-content-center m-3 fs-1">Contato</h3>
+        
 
-            <main class="row ">
+        <div class="row justify-content-start align-items-center d-flex">
+            
+            <form class="col-sm-6 col-md-6 col-lg-8">
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Escreva pra gente:</label>
+                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label"></label>
+                    <textarea class="form-control" placeholder="Escreva sua dúvida" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+                <button type="button" class="gap-2 col-4 mx-auto btn-dark rounded">Enviar</button>
+            </form>
+            
 
-                <h3 class="text-center">Contato</h3>
-                <div class="d-flex flex-wrap align-content-between justify-content-evenly">
-                    <div class="card card-home mb-3 p-4">
+            <div class="col-sm-6 col-md-6 col-lg-4">
+                    <div class="col-12 card card-home mb-3 p-4">
                         <h3 class="card-title">Redes Sociais</h3>
 
                         <ul>
@@ -33,22 +48,12 @@
                         </ul>
                     </div>
                     
-
-                </div>
-            </main>
-            <form class="col-11 col-lg-7 my-2">
-                <div class="mb-3">
-                    <label for="exampleFormControlInput1" class="form-label">Escreva pra gente:</label>
-                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email">
-                </div>
-                <div class="mb-3">
-                    <label for="exampleFormControlTextarea1" class="form-label"></label>
-                    <textarea class="form-control" placeholder="Escreva sua dúvida" id="exampleFormControlTextarea1" rows="3"></textarea>
-                </div>
-                <button type="button" class="d-grid gap-2 col-4 mx-auto btn-dark rounded me-md-2">Enviar</button>
-            </form>
-
             </div>
+            
+        </div>
+            
+        </main>
+            
             <div class="container my-5 g-0">
         <article>
             <h1 class="text-center">Quem Somos</h1>
