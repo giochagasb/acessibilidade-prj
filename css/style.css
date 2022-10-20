@@ -22,3 +22,10 @@
 .navbar-dark .nav{
     --bs-nav-link-color:var(--corClaro);
 }
+.nav-claro .nav-link {
+    color: var(--corClaro) !important;
+}
+
+.nav-claro .nav-link:hover{
+    text-decoration: underline;
+}

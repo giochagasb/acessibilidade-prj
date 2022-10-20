@@ -1,6 +1,6 @@
 <footer id="footer" class="bg-banner">
     <h3 class="text-light">Mapa do Site</h3>
-    <nav class="navbar navbar-dark">
+    <nav class="navbar navbar-dark nav-claro">
             <ul class="nav">
                 <li class="nav-item">
                     <a class="nav-link" href="cidadania.php">Cidadania</a>
@@ -34,11 +34,10 @@
                 </li>
             </ul>
     </nav>
-    <div class="row text-center">
+    <div class="text-center">
         <small class="text-light">© 2022 - <a class="link-light" href="contato.php">Ursinhos Felizes em Chamas</a> - Todos os direitos reservados</small>
     </div>
-    <div class="row text-center">
-        <small class="text-light">Clique aqui <a href="normas-de-uso.php"><img class="img-fluid" src="imagens/120069.png" alt="imagem das normas de uso"></a> veja nossas normas de
-            uso</small>
+    <div class="text-center">
+        <small class="text-light">Clique aqui <a href="normas-de-uso.php"><img class="img-fluid" src="imagens/120069.png" alt="imagem das normas de uso"></a> veja nossas normas de uso</small>
     </div>
 </footer>
