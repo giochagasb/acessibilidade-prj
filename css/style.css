@@ -29,3 +29,26 @@
 .nav-claro .nav-link:hover{
     text-decoration: underline;
 }
+
+
+.botao-subir{
+    text-decoration: none;
+    position:fixed;
+    right: 30px;
+    bottom: 10px;
+    background-color:var(--corEscuro);
+    color: var(--corClaro);
+    font-weight: bolder;
+  }
+  .botao-subir:hover, #menu a:hover{
+    color: var(--corClaro);
+  }
+  
+  #menu a{
+    background-color:var(--corEscuro);
+    color: var(--corClaro);
+  }
+  .ancora-subir{
+    color: var(--corClaro)!important;
+  
+  }
