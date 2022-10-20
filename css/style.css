@@ -22,3 +22,23 @@
 .navbar-dark .nav{
     --bs-nav-link-color:var(--corClaro);
 }
+
+
+
+#presidente .btn, #senado .btn {
+  text-decoration: none;
+  background-color: #0d0d0d;
+  color: #FFF;
+  padding: 7px 18px;
+  border-radius: 0;
+}
+
+#presidente .btn:hover, #senado .btn:hover {
+  background-color: #333;
+  color: #FFF;
+}
+
+#funcoes{
+color: #0d0d0d !important;
+font-weight: 600 !important;
+}
