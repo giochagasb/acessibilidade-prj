@@ -50,5 +50,35 @@
   }
   .ancora-subir{
     color: var(--corClaro)!important;
+  }
+
+
+
+  /* css página Linha do Tempo dos Presidentes */
+#linha_tempo {
+    font-size: 1em;
+  }
   
+  /* Fonte da isso cria a linha tracejada atrás de cada section!! */
+  /* Cuidado, é necessário ter essa imagem na pasta imagens */
+  #linha_tempo .linha_tempo_section {
+    font-size: 1em;
+    background-image: url("/imagens/dashed_line.png");
+    background-repeat: repeat-y;
+    background-position: 50%;
+  }
+  
+  
+  /* Configurações dos cards */
+  #linha_tempo .linha_tempo_card {
+    width: 100%;
+    box-shadow: 3px 3px;
+  }
+  @media (min-width: 768px) {
+    #linha_tempo .linha_tempo_card {
+      width: 60%;
+    }
+  }
+  #linha_tempo .linha_tempo_card_img {
+    width: 40%;
   }
