@@ -9,10 +9,10 @@
                     <a class="nav-link" href="tripartite.php">Executivo</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="presidente.php">Presidente</a>
+                    <a class="nav-link" href="presidente.php">Presidentes</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="senado.php">Senadores</a>
+                    <a class="nav-link" href="senador.php">Senadores</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="cargos.php">Cargos</a>
