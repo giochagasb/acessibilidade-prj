@@ -14,7 +14,7 @@
     color: #fff!important;
 }
 .accordion-button:focus{
-    box-shadow: 0px 0px 0px 2px var(--corEscuro)!important;
+    box-shadow: 0px 0px 0px 2px var(--corCinzaClaro)!important;
 }
 .bg-banner{
     background-color: var(--corEscuro);
@@ -42,3 +42,33 @@
 color: #0d0d0d !important;
 font-weight: 600 !important;
 }
+.nav-claro .nav-link {
+    color: var(--corClaro) !important;
+}
+
+.nav-claro .nav-link:hover{
+    text-decoration: underline;
+}
+
+
+.botao-subir{
+    text-decoration: none;
+    position:fixed;
+    right: 30px;
+    bottom: 10px;
+    background-color:var(--corEscuro);
+    color: var(--corClaro);
+    font-weight: bolder;
+  }
+  .botao-subir:hover, #menu a:hover{
+    color: var(--corClaro);
+  }
+  
+  #menu a{
+    background-color:var(--corEscuro);
+    color: var(--corClaro);
+  }
+  .ancora-subir{
+    color: var(--corClaro)!important;
+  
+  }
