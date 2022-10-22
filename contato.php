@@ -142,18 +142,15 @@
                 </div>
             </div>
              <div class="card col-sm-12 col-md-6 col-lg-2 mx-1">
-                <img src="imagens/sthefani.jpg" class="card-img-top py-2" alt="Sthefani">
+                <img src="imagens/gi.jpg" class="card-img-top py-2" alt="Sthefani">
                 <div class="card-body">
                     <p class="card-text">Giovana</p>
-                    <p class="card-text">A integrante mais estressada e desesperada. Nas horas vagas gosta de maratonar
-                        séries, jogar videogames e jogos de tabuleiro com os amigos. Temáticas preferidas: zumbis,
-                        investigação, terror, piratas e xianxia.</p>
-                    <p class="card-text">RA: 2650832123006</p>
-                    <p class="card-text">Função do Grupo: Pesquisa, design, ajudante de git, edição de imagens, "maluca"
-                        das padronizações. </p>
+                    <p class="card-text">A integrante agregada. Nas horas vagas gosta de pensar em todos os problemas e se deseperar como se não houvesse amanhã. Tem a risada mais alta do grupo e sempre tenta não incomodar. Se possivel, sempre focada nas tarefas a fazer e quase nunca falta as aulas.</p>
+                    <p class="card-text">RA: 2650832123032</p>
+                    <p class="card-text">Função do Grupo: Ajudante de git, surtada pelo codigo não funcionar, xingadora oficial de tudo. </p>
                     <ul>
-                        <li><a href="cargos.php">Cargos</a></li>
-                        <li><a href="partidos.php">Partidos</a></li>
+                        <li><a href="cidadania.php">Cidadania</a></li>
+                        <li><a href="contato.php">Contato</a></li>
                     </ul>
                 </div>
             </div>
