@@ -15,7 +15,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
     integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous">
-    </script>
+  </script>
 
 
   <title>Linha do Tempo dos Presidentes</title>
@@ -24,7 +24,9 @@
 
 
 <body id="linha_tempo">
-  
+
+  <?php include_once('php/header.php'); ?>
+
   <main>
     <article class="my-5">
       <!-- SECTION DA 1ª REPÚBLICA -->
@@ -61,7 +63,7 @@
       </section>
 
 
-      
+
       <!-- SECTION DA 2ª REPÚBLICA -->
       <section class="container-fluid row justify-content-center mx-auto linha_tempo_section">
 
@@ -93,9 +95,11 @@
             <p class="card-text text-center">23 de novembro de 1891<br>até<br>15 de novembro de 1894</p>
           </div>
         </div>
-      </section>      
+      </section>
     </article>
   </main>
+
+  <?php include_once('php/footer.php'); ?>
 
 </body>
 
