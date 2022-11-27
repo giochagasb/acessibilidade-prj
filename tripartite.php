@@ -36,8 +36,10 @@
                 </div>
             </section>
             <p class="referencias-footer text-center m-0">
-                <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.html#Tripartite" target="_blank">Referências dessa página</a></small> 
+                <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.php#Tripartite" target="_blank">Referências dessa página</a></small> 
             </p>
+        <p class="text-center m-0 my-2"><a href="tripartite.php" class="btn btn-dark">Voltar ao topo</a></p>
+
         </main>
         
     </div>
