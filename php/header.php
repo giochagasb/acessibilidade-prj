@@ -1,5 +1,4 @@
 <header class="bg-banner text-center">
-    <img class="img-fluid" src="imagens/portal-intelecto.png" alt="Banner">
     <nav class="navbar navbar-expand-lg navbar-dark bg-banner">
         <div class="container-fluid">
           <a class="navbar-brand" href="#"><img src="imagens/icon-menu48x48.png" alt="Logo do site"></a>
