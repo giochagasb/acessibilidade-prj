@@ -36,7 +36,7 @@
                     <a class="nav-link" href="normas-de-uso.php">Normas de Uso</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="referencias.html">Referências</a>
+                    <a class="nav-link" href="referencias.php">Referências</a>
                 </li>
             </ul>
     </nav>
