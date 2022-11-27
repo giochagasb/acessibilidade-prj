@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imagens/icon-menu48x48.png" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
     <title>Normas de Uso</title>
 </head>
 <body>
@@ -19,13 +19,14 @@
             <p class="text-justify">Este site é oferecido pelo Ursinhos Felizes em Chamas, que regulamenta todos os direitos e obrigações com todos que acessam o site, resguardado todos os direitos previstos na legislação, trazem as cláusulas abaixo como requisito para acesso e visita do mesmo.</p>
 
             <div class="accordion" id="accordionTermos">
+
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
-                    <button class="accordion-button text-uppercase button-accordion" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    <button class="accordion-button collapsed text-uppercase button-accordion" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                     Função do Site
                     </button>
                   </h2>
-                  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionTermos">
+                  <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionTermos">
                     <p class="accordion-body">Este site foi criado e desenvolvido com a função de trazer conteúdo informativo de alta qualidade. Todo o conteúdo presente neste site foi desenvolvido buscando fontes e materiais de confiabilidade. É responsabilidade do usuário de usar as informações presentes no site com senso crítico, utilizando apenas como fonte de informação, e sempre buscando especialistas da área para a solução concreta do seu conflito.</p>
                   </div>
                 </div>
@@ -83,7 +84,8 @@
                 </div>
             </div>
         </article>
-        
+        <p class="text-center m-0 my-2"><a href="normas-de-uso.php" class="btn btn-dark">Voltar ao topo</a></p>
+
     </div>
     <?php include_once('php/footer.php'); ?>
 
