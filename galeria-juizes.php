@@ -96,6 +96,8 @@
         <p class="referencias-footer text-center m-0">
             <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.html#LinhaTempoGaleria" target="_blank">Referências dessa página</a></small>
         </p>
+        <p class="text-center m-0 my-2"><a href="galeria-juizes.php" class="btn btn-dark">Voltar ao topo</a></p>
+
     </div>
     <?php include_once('php/footer.php'); ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
