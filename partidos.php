@@ -587,6 +587,8 @@
         <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold"
                 href="referencias.html#Partidos" target="_blank">Referências dessa página</a></small>
     </p>
+    <p class="text-center m-0 my-2"><a href="partidos.php" class="btn btn-dark">Voltar ao topo</a></p>
+
     <?php include_once('php/footer.php'); ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
         integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"

@@ -29,7 +29,7 @@
                 id="camara-senado">
         </div>
         <div class="row p-4">
-            <h1 class="text-center mb-4">Pré-Candidatos a Presidência</h1>
+            <h1 class="text-center mb-4">Pré-Candidatos ao Senado</h1>
             <p>Agora chegamos no momento de falar quem são os pré-candidatos para a eleição que acontecerá em outubro de 2022. Iremos listar alguns dos principais candidatos ao cargo de Senadores. Falaremos um pouco de suas trajetórias política.</p>
             <p>Por se tratar de pré-candidatura até o presado momento não obtivemos informações sobre suas propostas, mas você pode conferir com mais detalhes quais são suas funções em nossa página <a href="cargos.php" id="funcoes">Cargos</a>.
             </p>
@@ -204,6 +204,7 @@
         <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.php"
                 target="_blank">Referências dessa página</a></small>
     </p>
+    <p class="text-center m-0 my-2"><a href="senador.php" class="btn btn-dark">Voltar ao topo</a></p>
 
     <?php include_once('php/footer.php'); ?>
 

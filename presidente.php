@@ -246,6 +246,8 @@
                 target="_blank">Referências dessa página</a></small>
     </p>
 
+    <p class="text-center m-0 my-2"><a href="presidente.php" class="btn btn-dark">Voltar ao topo</a></p>
+
     <?php include_once('php/footer.php'); ?>
 
 
