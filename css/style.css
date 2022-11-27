@@ -22,8 +22,13 @@
 .navbar-dark .nav{
     --bs-nav-link-color:var(--corClaro);
 }
-
-
+.no-space{
+  padding: 0;
+  margin: 0;
+}
+.no-space li{
+  list-style: none;
+}
 
 #presidente .btn, #senado .btn {
   text-decoration: none;
