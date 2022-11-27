@@ -39,12 +39,12 @@
             </div>
         </nav>
     </header>
-    <div class="container my-2">
+    <div class="container">
 
-        <article class="d-flex flex-wrap my-3 justify-content-lg-evenly">
-            <div class="align-self-center col-md-6 p-4">
+        <article class="d-flex flex-column m-sm-2 flex-lg-row justify-content-md-between">
+            <div class="align-self-center col-lg-6">
                 <h1>Bem Vindo</h1>
-                <p class="text-justify">Portal Intelecto foi desenvolvido como um porta-voz à todos os brasileiros que
+                <p class="text-justify p-lg-2">Portal Intelecto foi desenvolvido como um porta-voz à todos os brasileiros que
                     desejam conhecer mais sobre a
                     democracia presidencialista no Brasil. Além de oferecer o conteúdo teórico e histórico de forma
                     leve, também
@@ -52,13 +52,12 @@
                     plataforma os partidos, candidaturas e propostas atuais do país.</p>
             </div>
 
-            <img class="img-fluid" src="imagens/img-home.jpg" alt="Pessoa discursando">
-
+            <img class="img-fluid p-lg-2" src="imagens/img-home.jpg" alt="Pessoa discursando">
         </article>
 
-        <div class="d-flex flex-wrap justify-content-md-between justify-content-lg-evenly">
+        <div class="d-flex flex-column flex-md-row justify-content-md-between">
 
-            <div class="col-md-4 d-flex flex-column align-items-center justify-content-sm-center">
+            <div class="p-2">
                 <section class="card card-home mb-3">
                     <div class="row g-0">
                         <div class="col-3 d-flex justify-content-center align-items-center">
@@ -95,7 +94,7 @@
                 </section>
             </div>
 
-            <div class="col-md-4 d-flex flex-column align-items-center justify-content-sm-center">
+            <div class="p-2">
                 <section class="card card-home mb-3 ">
                     <div class="row g-0">
                         <div class="col-3 d-flex justify-content-center align-items-center">
