@@ -46,7 +46,7 @@
       <h2 class="fs-4">Candidaturas</h2>
       <hr>
       <ul>
-        <li><a href="https://www.infomoney.com.br/perfil/jair-bolsonaro/" target="_blank">Candidato Bosonaro</a>. Acesso
+        <li><a href="https://www.infomoney.com.br/perfil/jair-bolsonaro/" target="_blank">Candidato Bolsonaro</a>. Acesso
           em
           Maio de 2022 </li>
         <li><a href="https://www.infomoney.com.br/perfil/luiz-inacio-lula-da-silva/" target="_blank">Candidato
