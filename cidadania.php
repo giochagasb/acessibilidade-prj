@@ -37,9 +37,7 @@
           <li><strong>Cidadania Substantiva:</strong> é aquela que diz respeito aos direitos e deveres do cidadão. Ela engloba os aspectos histórico-sociais de um povo, podendo ser diferente em outras culturas. Ela é geralmente explicitada por meio de uma
             Constituição como no caso do Brasil. Aqui estaremos nos referindo a esse conceito em particular.</li>
         </ul>
-        <p>De um modo geral o conceito sofre alterações substanciais com o decorrer das eras. Na Europa Medieval, por exemplo, ser cidadão era algo próximo a se dizer que o indivíduo era parte de do patrimônio de seu senhor. Podemos dizer que embora
-          a democracia tenha começado a tomar forma na Grécia antiga, foi somente no Pós Segunda Guerra que tivemos um crescimento considerável nos direitos que compõem o conceito. Enquanto que no Brasil a mudança demorou um pouco mais, sendo o fim
-          do regime militar (1964-1985) o período das maiores conquistas nesta área.</p>
+        <p>De um modo geral o conceito sofre alterações substanciais com o decorrer das eras. Na Europa Medieval, por exemplo, ser cidadão era algo próximo a se dizer que o indivíduo era parte de do patrimônio de seu senhor. Podemos dizer que embora a democracia tenha começado a tomar forma na Grécia antiga, foi somente no Pós Segunda Guerra que tivemos um crescimento considerável nos direitos que compõem o conceito. Enquanto no Brasil a mudança demorou um pouco mais, sendo o fim do regime militar (1964-1985) o período das maiores conquistas nesta área.</p>
         <p>No entanto, ainda hoje podemos notar uma contradição na maneira em que as pessoas tratam o conceito. Dissemos anteriormente que cidadania era sobre direitos e deveres do cidadão. Hoje com advento da tecnologia e um crescimento cada vez
           maior do individualismo, vemos as pessoas buscando seus direitos como cidadãos, mas deixando de lado os deveres.</p>
         <p>Cada vez mais vemos uma sociedade ser pouco a pouco reconstruída através da inversão que ocorre quando o cidadão passa a não entender que seus deveres também são uma conquista a ser valorizada. Dentre esses deveres destacamos o voto como o
@@ -64,20 +62,9 @@
             destacar que existe mais de um
             tipo de democracia, podendo ser dividida em:</p>
           <ul>
-            <li class="p-1"><strong>Democracia Direta:</strong> forma clássica de democracia, onde não haviam eleições e os cidadãos debatiam e alteravam as leis de maneira direta, isto é, sem um representante. Só era possível devido ao número
-              reduzido de
-              cidadãos, considerando
-              também que as mulheres não eram consideradas parte deste grupo.</li>
-            <li class="p-1"><strong>Democracia Representativa:</strong> conforme a sociedade foi crescendo foi ficando cada vez mais difícil sustentar a democracia direta, portanto foi necessário que fossem implementadas eleições de representantes
-              legais que
-              defendessem os valores e
-              ideais, bem como os projetos de seus eleitores. Esses representantes seriam então substituídos de tempos em tempos para evitar que houvessem abusos e deveria haver também uma Constituição que servisse de âncora para as futuras
-              alterações.
-              Também chamada de Democracia Indireta, hoje essa é a forma de democracia mais comum em todo o mundo, sendo sua maior fraqueza a corrupção.</li>
-            <li class="p-1"><strong>Democracia Participativa:</strong> podendo ser chamada de Democracia Semidireta, essa forma de democracia reúne elementos dos dois tipos anteriores. Aqui existem eleições de representantes, mas as decisões são
-              tomadas pelo
-              povo que participa de
-              assembleias locais ou através de plebiscitos que funcionam como uma consulta da opinião popular.</li>
+            <li class="p-1"><strong>Democracia Direta:</strong> forma clássica de democracia, onde não havia eleições e os cidadãos debatiam e alteravam as leis de maneira direta, isto é, sem um representante. Só era possível devido ao número reduzido de cidadãos, considerando também que as mulheres não eram consideradas parte deste grupo.</li>
+            <li class="p-1"><strong>Democracia Representativa:</strong> conforme a sociedade foi crescendo foi ficando cada vez mais difícil sustentar a democracia direta, portanto foi necessário que fossem implementadas eleições de representantes legais que defendessem os valores e ideais, bem como os projetos de seus eleitores. Esses representantes seriam então substituídos de tempos em tempos para evitar que houvesse abusos e deveria haver também uma Constituição que servisse de âncora para as futuras alterações. Também chamada de Democracia Indireta, hoje essa é a forma de democracia mais comum em todo o mundo, sendo sua maior fraqueza a corrupção.</li>
+            <li class="p-1"><strong>Democracia Participativa:</strong> podendo ser chamada de Democracia Semidireta, essa forma de democracia reúne elementos dos dois tipos anteriores. Aqui existem eleições de representantes, mas as decisões são tomadas pelo povo que participa de assembleias locais ou através de plebiscitos que funcionam como uma consulta da opinião popular.</li>
           </ul>
         </div>
 
@@ -111,6 +98,8 @@
 
     </section>
   </main>
+  <p class="text-center m-0 my-2"><a href="cidadania.php" class="btn btn-dark">Voltar ao topo</a></p>
+
 
 
 
