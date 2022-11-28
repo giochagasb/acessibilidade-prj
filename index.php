@@ -52,7 +52,7 @@
                     plataforma os partidos, candidaturas e propostas atuais do país.</p>
             </div>
 
-            <img class="img-fluid" src="imagens/img-home.jpg" alt="Pessoa discursando">
+            <img class="img-fluid" src="imagens/home/img-home.jpg" alt="Pessoa discursando">
 
         </article>
 
@@ -62,7 +62,7 @@
                 <section class="card card-home mb-3">
                     <div class="row g-0">
                         <div class="col-3 d-flex justify-content-center align-items-center">
-                            <img src="imagens/ico-candidaturas.png" class="img-fluid img-thumbnail"
+                            <img src="imagens/home/ico-candidaturas.png" class="img-fluid img-thumbnail"
                                 alt=" ">
                         </div>
                         <div class="col-8">
@@ -79,7 +79,7 @@
                 <section class="card card-home mb-3 ">
                     <div class="row g-0">
                         <div class="col-3 d-flex justify-content-center align-items-center">
-                            <img src="imagens/ico-cidadania.png" class="img-fluid img-thumbnail rounded-start"
+                            <img src="imagens/home/ico-cidadania.png" class="img-fluid img-thumbnail rounded-start"
                                 alt=" ">
                         </div>
                         <div class="col-8">
@@ -99,7 +99,7 @@
                 <section class="card card-home mb-3 ">
                     <div class="row g-0">
                         <div class="col-3 d-flex justify-content-center align-items-center">
-                            <img src="imagens/ico-linha-tempo.png" class="img-fluid img-thumbnail rounded-start"
+                            <img src="imagens/home/ico-linha-tempo.png" class="img-fluid img-thumbnail rounded-start"
                                 alt=" ">
                         </div>
                         <div class="col-8">
@@ -116,7 +116,7 @@
                 <section class="card card-home mb-3 ">
                     <div class="row g-0">
                         <div class="col-3 d-flex justify-content-center align-items-center">
-                            <img src="imagens/ico-tripartite.png" class="img-fluid img-thumbnail rounded-start"
+                            <img src="imagens/home/ico-tripartite.png" class="img-fluid img-thumbnail rounded-start"
                                 alt=" ">
                         </div>
                         <div class="col-8">

@@ -579,9 +579,7 @@
             </div>
             <a href="#" class="ancora-subir">Ir para o início</a>
         </section>
-        <!-- <div style="position:relative;"> -->
-        <a class="botao-subir btn" aria-label="Ir para o início" href="#">↑</a>
-    <!-- </div> -->
+
     </main>
     <p class="referencias-footer text-center m-0">
         <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold"
