@@ -46,22 +46,26 @@
                 </div>
             </div>
         </main>
+           
             
-            
-        <div class="container g-0">
-            <article>
-                <h1 class="text-center">Quem Somos</h1>
-                <div class="border border-1 d-flex flex-md-row flex-column align-items-center">
-                    <img src="imagens/equipe/ufc.png" class="img-fluid img-thumbnail col-sm-4 col-md-4 col-lg-3 border-0" alt="Logo do Grupo">
-                    <p class="p-md-4 p-2 text-justify">Somos os Ursinhos Felizes em Chamas, mas pode nos chamar por UFC, o grupo é formado por Daniel, Jaquelini, José Guilherme, Sthefani e Giovana, um grupo novo com quatro pessoas totalmente distintas e que até então não tinham trabalhados juntos, mas com o mesmo intuito de trabalho, fazer um portal informativo, um portal onde o eleitor possa entender melhor sobre o modelo político de nosso país, quais as funções de cada cargo e seus futuros candidatos, para que ele saia mais consciente do valor de seu voto. E essa foi a nossa meta desde a primeira reunião, todos respectivos para as propostas de ideias, ajudando uns aos outros em suas dificuldades para que o resultado seja o melhor possível para você leitor, abaixo você encontrará mais sobre cada um dos membros, curiosidades, funções etc.</p>
-                    
-                </div>
-            </article>
-            <aside class="row d-flex justify-content-center align-items-start p-4">
-                <div class="card col-sm-12 col-md-6 col-lg-2 mx-1">
-                    <img src="imagens/equipe/daniel.jpg" class="card-img-top py-2" alt="Daniel">
-                    <div class="card-body">
-                        <p class="card-text">Daniel</p>
+            <div class="container my-5 g-0">
+        <article>
+            <h1 class="text-center">Quem Somos</h1>
+            <div class="row d-flex flex-row justify-content-evenly align-items-center align-self-center">
+                <img src="imagens/ufc.png" class="img-fluid img-thumbnail col-sm-4 col-md-4 col-lg-3" alt="Logo do Grupo">
+                <p class="col-sm-12 col-md-8 col-lg-7">Somos os Ursinhos Felizes em Chamas, mas pode nos chamar por UFC, o grupo é formado por Daniel, Jaquelini, José Guilherme, Sthefani e Giovana, um grupo novo com quatro pessoas totalmente distintas e que até então não tinham trabalhados juntos, mas com o mesmo intuito de trabalho, fazer um portal informativo, um portal onde o eleitor possa entender melhor sobre o modelo político de nosso país, quais as funções de cada cargo e seus futuros candidatos, para que ele saia mais consciente do valor de seu voto. E essa foi a nossa meta desde a primeira reunião, todos respectivos para as propostas de ideias, ajudando uns aos outros em suas dificuldades para que o resultado seja o melhor possível para você leitor, abaixo você encontrará mais sobre cada um dos membros, curiosidades, funções etc.
+                </p>
+                
+            </div>
+        </article>
+        <aside class="row d-flex justify-content-center align-items-start p-4">
+
+        <div class="row row-cols-1 row-cols-md-7 g-4">
+            <div class="col card" style="flex-direction: row;">
+                    <img class="img-fluid w-75 p-4" src="imagens/dani.jpg" alt="Daniel">
+                <div>
+                    <div class="card-body px-4 py-2 p-0">
+                       <p class="card-text">Daniel</p>
                         <p class="card-text">O Integrante que inventa problema para o resto do time. Gosto de
                             <i>streams</i>, jogos e, quando sobra tempo, de escrever histórias. Adoro enigmas e desafios que
                             me façam pensar. Demoro muito para aderir a uma causa, mas depois também não abandono por nada
@@ -73,11 +77,15 @@
                         </ul>
                     </div>
                 </div>
+            </div>
+        </div>    
 
-                <div class="card col-sm-12 col-md-6 col-lg-2 mx-1">
-                    <img src="imagens/equipe/jaque.jpg" class="card-img-top py-2" alt="Jaquelini">
-                    <div class="card-body">
-                        <p class="card-text">Jaquelini</p>
+        <div class="row row-cols-1 row-cols-md-7 g-4">
+            <div class="col card" style="flex-direction: row;">
+                    <img class="img-fluid w-75 p-4" src="imagens/jaquelini.jpg" alt="integrante do grupo, Jaquelini">
+                <div>
+                    <div class="card-body px-4 py-2 p-0">
+                         <p class="card-text">Jaquelini</p>
                         <p class="card-text">A Integrante que reprime a criatividade dos outros integrantes. Gosta de maratonar animes e séries. Seus filmes preferidos são Matrix, Senhor dos Anéis e Harry Potter. Seus passatempos são cantar e jogar e de vez em quando estudar.</p>
                         <p class="card-text">RA: 2650832123022</p>
                         <p class="card-text">Função do Grupo: Destruidora de Criatividade, Menos é Mais</p>
@@ -87,6 +95,57 @@
                             <li><a href="normas-de-uso.php">Normas de Uso</a></li>
                         </ul>
                     </div>
+                </div>
+            </div>
+        </div>    
+
+        <div class="row row-cols-1 row-cols-md-7 g-4">
+            <div class="col card" style="flex-direction: row;">
+                    <img class="img-fluid w-75 p-4" src="imagens/gui.jpg" alt="integrante do grupo, José Guilherme">
+                <div>
+                    <div class="card-body px-4 py-2 p-0">
+                        <p class="card-text">José Guilherme</p>
+                        <p class="card-text">O integrante mais calmo do grupo. Gosto muito de estar com os meus amigos, conversando, fazendo um churrasco etc. Gosto de cozinhar, ir ao cinema e em alguns momentos ficar sozinho enquanto escuto uma música e fumo meu charuto.</p>
+                        <p class="card-text">RA: 2650832123019</p>
+                        <p class="card-text">Função do Grupo: Pesquisa dos candidatos </p>
+                        <ul class="no-space">
+                            <li><a href="presidente.php">Pré-Candidatos Presidência</a></li>
+                            <li><a href="senador.php">Pré-Candidatos Senado</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>  
+
+        <div class="row row-cols-1 row-cols-md-7 g-4">
+            <div class="col card" style="flex-direction: row;">
+                    <img class="img-fluid w-75 p-4" src="imagens/sthe.jpg" alt="integrante do grupo, Sthefani">
+                <div>
+                    <div class="card-body px-4 py-2 p-0">
+                        <p class="card-text">Sthefani</p>
+                        <p class="card-text">A integrante mais estressada e desesperada. Nas horas vagas gosta de maratonar séries, jogar videogames e jogos de tabuleiro com os amigos. Temáticas preferidas: zumbis, investigação, terror, piratas e xianxia.</p>
+                        <p class="card-text">RA: 2650832123006</p>
+                        <p class="card-text">Função do Grupo: Pesquisa, design, ajudante de git, edição de imagens, "maluca"
+                            das padronizações. </p>
+                        <ul class="no-space">
+                            <li><a href="cargos.php">Cargos</a></li>
+                            <li><a href="partidos.php">Partidos</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div> 
+
+        <div class="row row-cols-md-1 g-3">
+            <div class="col card" style="flex-direction: row;">
+                    <img class="img-fluid w-75 p-4" src="imagens/giovana.jpg" alt="integrante do grupo, Giovana">
+                <div>
+                    <div class="card-body px-4 py-2 p-0">
+                        <p class="card-text py-3">Giovana</p>
+                        <p class="card-text">A integrante agregada. Nas horas vagas gosta de pensar em todos os problemas e se deseperar como se não houvesse amanhã. Tem a risada mais alta do grupo e sempre tenta não incomodar. Se possivel, sempre focada nas tarefas a fazer e quase nunca falta as aulas.</p>
+                        <p class="card-text">RA: 2650832123032</p>
+                        <p class="card-text">Função do Grupo: Ajudante de git, surtada pelo codigo não funcionar, xingadora oficial de tudo</p>
+                        <ul>
                 </div>
 
                 <div class="card col-sm-12 col-md-6 col-lg-2 mx-1">
