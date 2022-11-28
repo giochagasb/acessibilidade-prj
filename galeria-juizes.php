@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imagens/icon-menu48x48.png" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
     <title>Galeria de Juízes do STF</title>
@@ -94,8 +95,10 @@
             </div>
         </main>
         <p class="referencias-footer text-center m-0">
-            <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.html#LinhaTempoGaleria" target="_blank">Referências dessa página</a></small>
+            <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.php#LinhaTempoGaleria" target="_blank">Referências dessa página</a></small>
         </p>
+        <p class="text-center m-0 my-2"><a href="galeria-juizes.php" class="btn btn-dark">Voltar ao topo</a></p>
+
     </div>
     <?php include_once('php/footer.php'); ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="imagens/icon-menu48x48.png" type="image/x-icon">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -126,7 +126,7 @@
                                 responsabilidade e assim sofrerá o processo de <strong>impeachment</strong>.
                             </p>
                             <p>
-                                De forma resumida, a função do Presidente da República é fazer a gestão do país, isto é
+                                De forma resumida, a função do Presidente da República é fazer a gestão do país, isto é,
                                 propondo, sancionando, vetando leis e projetos, além de ser a representação e fazer a
                                 relação do país internacionalmente. As funções do cargo de Presidente da República, são
                                 mais detalhadas conforme a <a
@@ -141,9 +141,7 @@
                                     forças armadas;
                                 </li>
                                 <li>
-                                    No processo legislativo pode sancionar, promulgar e fazer publicar as leis, vetar
-                                    projetos de lei, editar medidas provisórias e também decretar regulamentações para
-                                    suas execuções.
+                                No processo legislativo pode sancionar, promulgar e fazer publicar as leis, vetar projetos de lei, editar medidas provisórias e decretar regulamentações para suas execuções.
                                 </li>
                                 <li>
                                     Deve implementar a política fiscal, enviar ao Congresso Nacional o plano plurianual,
@@ -163,7 +161,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <img class="img-fluid" src="./imagens/urna-4-anos.jpg"
+                            <img class="img-fluid" src="imagens/cargos/urna-4-anos.jpg"
                                 alt="Urna eletrônica escrito: Mandato de 4 anos">
                         </div>
                     </div>
@@ -188,9 +186,7 @@
                                     União por crimes de responsabilidade.
                                 </li>
                                 <li>
-                                    Aprovar a indicação dos Ministros do Tribunal de Contas da União pelo Presidente da
-                                    República,
-                                    presidente e diretores do Banco Central e também titulares de outros cargos.
+                                Aprovar a indicação dos Ministros do Tribunal de Contas da União pelo Presidente da República, presidente e diretores do Banco Central e titulares de outros cargos.
                                 </li>
                                 <li>
                                     Autorizar operações financeiras como operações de crédito limites e dívida
@@ -213,7 +209,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <img class="img-fluid" src="./imagens/urna-8-anos.jpg"
+                            <img class="img-fluid" src="imagens/cargos/urna-8-anos.jpg"
                                 alt="Urna eletrônica escrito: Mandato de 8 anos">
                         </div>
                     </div>
@@ -256,7 +252,7 @@
 
                         </div>
                         <div class="col-md-4">
-                            <img class="img-fluid" src="./imagens/urna-4-anos.jpg" alt="Urna eletrônica escrito: Mandato de 4 anos">
+                            <img class="img-fluid" src="imagens/cargos/urna-4-anos.jpg" alt="Urna eletrônica escrito: Mandato de 4 anos">
                         </div>
                     </div>
                 </div>
@@ -264,11 +260,7 @@
                     <div class="row d-flex justify-content-between">
                         <div class="col-md-8">
                             <p>
-                                Os ministros do Supremo Tribunal Federal representam o Poder Judiciário, são
-                                responsáveis pela garantia do respeito e cumprimento da Constituição Federal. O cargo de
-                                ministro é vitalício, portanto poderá ocupar a vaga até sua aposentadoria, exceto por
-                                processo de impeachment. A escolha dos mistros são feitas pelo Presidente da República,
-                                indicados em lista tríplice e precisam da aprovação do Senado Federal.
+                            Os ministros do Supremo Tribunal Federal representam o Poder Judiciário, são responsáveis pela garantia do respeito e cumprimento da Constituição Federal. O cargo de ministro é vitalício, portanto, poderá ocupar a vaga até sua aposentadoria, exceto por processo de impeachment. A escolha dos ministros são feitas pelo Presidente da República, indicados em lista tríplice e precisam da aprovação do Senado Federal.
 
                             </p>
                             <p>
@@ -301,7 +293,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <img class="img-fluid" src="./imagens/carta-stf.jpg"
+                            <img class="img-fluid" src="imagens/cargos/carta-stf.jpg"
                                 alt="Decreto de Nomeação dos Ministros escrito: Mandato Vitalício e com o passo a passo: 1-Indicação do Presidente, 2-Aprovação do Senado, 3-Nomeação do Ministro. ">
                         </div>
                     </div>
@@ -311,8 +303,10 @@
     </article>
     <p class="referencias-footer text-center m-0">
         <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold"
-                href="referencias.html#Cargos" target="_blank">Referências dessa página</a></small>
+                href="referencias.php#Cargos" target="_blank">Referências dessa página</a></small>
     </p>
+    <p class="text-center m-0 my-2"><a href="cargos.php" class="btn btn-dark">Voltar ao topo</a></p>
+
     <?php include_once('php/footer.php'); ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
         integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"

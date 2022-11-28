@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imagens/icon-menu48x48.png" type="image/x-icon">
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -30,12 +31,7 @@
 
         <div class="row p-4">
             <h1 class="text-center mb-4">Pré-Candidatos a Presidência</h1>
-            <p>Aqui listamos os principais candidatos a Presidência da República nesta eleição de 2022, onde apontamos a
-                sua trajetória até chegar a sua pré-candidatura. Por se tratar de uma fase de pré-candidatura, os
-                candidatos não anunciaram de maneira formal as suas propostas, mas conforme suas entrevistas conseguimos
-                listar algumas onde você conseguirá ver no decorrer dessa página, para que após sua leitura, você
-                eleitor saia mais informado e consciente do seu voto no dia 2 de outubro.
-            </p>
+            <p>Aqui listamos os principais candidatos à Presidência da República nesta eleição de 2022, onde apontamos a sua trajetória até chegar a sua pré-candidatura. Por se tratar de uma fase de pré-candidatura, os candidatos não anunciaram de maneira formal as suas propostas, mas conforme suas entrevistas conseguimos listar algumas onde você conseguirá ver no decorrer dessa página, para que após sua leitura, você eleitor saia mais informado e consciente do seu voto no dia 2 de outubro.</p>
         </div>
         <div class="row d-flex justify-content-center">
             <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
@@ -43,8 +39,7 @@
                     alt="Foto Jair Messias Bolsonaro">
                 <div class="card-body">
                     <h5 class="card-title text-center">Jair Messias Bolsonaro</h5>
-                    <p class="card-text">Jair Messias Bolsonaro, atual presidente da republica, após dois anos sem
-                        partido afiliou-se ao PL (Partido Liberal), para concorrer a sua reeleição no ano de 2022.</p>
+                    <p class="card-text">Jair Messias Bolsonaro, atual presidente da república, após dois anos sem partido afiliou-se ao PL (Partido Liberal), para concorrer a sua reeleição no ano de 2022.</p>
                 </div>
                 <ul class="list-group list-group-flush">
                 </ul>
@@ -62,21 +57,7 @@
                                         aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <p>Jair Messias Bolsonaro, atual presidente da republica, após dois anos sem partido
-                                        afiliou-se ao PL (Partido Liberal), para concorrer a sua reeleição no ano de
-                                        2022. Sua carreira politica começa com um mandato de vereador pela cidade do Rio
-                                        de Janeiro em 1988 pelo PDC (Partido Democrata Cristão) onde teve 11.062 votos,
-                                        em 1990 começa a sua longa carreira no planalto totalizando sete mandatos como
-                                        deputado federal (1991-1995, 1995-1999, 1999-2003, 2003-2007, 2007-2011,
-                                        2011-2015, 2015-2019), até o certo momento, Jair Messias Bolsonaro consta com ao
-                                        todo sete filiações em sua carreira (PCD, PTB, PFL, PP, PSC, PSL e atualmente
-                                        PL), uma carreira marcada por discursos impares e polêmicos, em 2018 Jair
-                                        Messias Bolsonaro se candidata a presidência da republica juntamente com o
-                                        Hamilton Mourão para vice na chapa “Brasil Acima de Tudo, Deus Acima de Todos”,
-                                        e saiu vitorioso em cima de seu concorrente Fernando Haddad (PT) sendo eleito
-                                        com 57,8 milhões de votos totalizando 55% dos votos validos. Já para as eleições
-                                        de 2022 ainda é incerto quem irá ser seu vice, até o presente momento ele não se
-                                        pronunciou sobre as propostas para essa eleição. </p>
+                                    <p>Jair Messias Bolsonaro, atual presidente da república, após dois anos sem partido afiliou-se ao PL (Partido Liberal), para concorrer a sua reeleição no ano de 2022. Sua carreira política começa com um mandato de vereador pela cidade do Rio de Janeiro em 1988 pelo PDC (Partido Democrata Cristão) onde teve 11.062 votos, em 1990 começa a sua longa carreira no planalto totalizando sete mandatos como deputado federal (1991-1995, 1995-1999, 1999-2003, 2003-2007, 2007-2011, 2011-2015, 2015-2019), até o certo momento, Jair Messias Bolsonaro consta com ao todo sete filiações em sua carreira (PCD, PTB, PFL, PP, PSC, PSL e atualmente PL), uma carreira marcada por discursos impares e polêmicos, em 2018 Jair Messias Bolsonaro se candidata à presidência da república juntamente com o Hamilton Mourão para vice na chapa “Brasil Acima de Tudo, Deus Acima de Todos”, e saiu vitorioso em cima de seu concorrente Fernando Haddad (PT) sendo eleito com 57,8 milhões de votos totalizando 55% dos votos validos. Já para as eleições de 2022 ainda é incerto quem irá ser seu vice, até o presente momento ele não se pronunciou sobre as propostas para essa eleição.</p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-secondary"
@@ -145,7 +126,7 @@
                                             Implementar novo Bolsa Família;
                                         </li>
                                         <li>
-                                            Políticas de valorização real do salário mínimo.
+                                            Políticas de valorização real do salário-mínimo.
                                         </li>
 
                                     </ul>
@@ -163,8 +144,7 @@
                 <img src="imagens/ciro-gomes.jpg" class="card-img-top" alt="Foto Ciro Gomes">
                 <div class="card-body">
                     <h5 class="card-title text-center">Ciro Gomes</h5>
-                    <p class="card-text">Ciro Ferreira Gomes começou sem trajeto na politica em 1982, sendo eleito
-                        deputado estadual pelo PDS, em 1983 afiliou-se ao PMDB , onde foi a favor das Diretas Já.</p>
+                    <p class="card-text">Ciro Ferreira Gomes começou sem trajeto na política em 1982, sendo eleito deputado estadual pelo PDS, em 1983 afiliou-se ao PMDB, onde foi a favor das Diretas Já.</p>
                 </div>
                 <ul class="list-group list-group-flush">
                 </ul>
@@ -182,26 +162,7 @@
                                         aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <p>Ciro Ferreira Gomes começou sem trajeto na politica em 1982, sendo eleito
-                                        deputado
-                                        estadual pelo PDS, em 1983 afiliou-se ao PMDB , onde foi a favor das Diretas Já.
-                                        Em
-                                        1986 foi eleito para o seu segundo mandato de deputado estadual. Em 1988 a
-                                        convite
-                                        de Tasso Jereissati candidatou a prefeito de Fortaleza onde venceu a disputa
-                                        contra
-                                        Maria Luíza Fontenele (PT). Já em 1990 se candidatou ao governo do estado do
-                                        Ceará,
-                                        onde, se elegeu no primeiro turno com 56% dos votos. Em 1994 Itamar convida Ciro
-                                        ao
-                                        Mistério da Fazendo onde em fim de mandado no Ceará aceito, onde deu
-                                        continuidade ao
-                                        Plano Real. Hoje já pelo PDT, confirmou sua pré-candidatura a Presidência nas
-                                        eleições de 2022, sempre afirmando ser uma "Terceira Via" nessa disputa, sempre
-                                        com
-                                        o seu discursos enérgicos, rebuscado e como seus jargões característicos. Para
-                                        essa
-                                        eleições podemos destacar algumas de suas propostas:</p>
+                                    <p>Ciro Ferreira Gomes começou sem trajeto na política em 1982, sendo eleito deputado estadual pelo PDS, em 1983 afiliou-se ao PMDB, onde foi a favor das Diretas Já. Em 1986 foi eleito para o seu segundo mandato de deputado estadual. Em 1988 a convite de Tasso Jereissati candidatou a prefeito de Fortaleza onde venceu a disputa contra Maria Luíza Fontenele (PT). Já em 1990 se candidatou ao governo do estado do Ceará, onde, se elegeu no primeiro turno com 56% dos votos. Em 1994 Itamar convida Ciro ao Mistério da Fazendo onde em fim de mandado no Ceará aceito, onde deu continuidade ao Plano Real. Hoje já pelo PDT, confirmou sua pré-candidatura à Presidência nas eleições de 2022, sempre afirmando ser uma "Terceira Via" nessa disputa, sempre com os seus discursos enérgicos, rebuscado e como seus jargões característicos. Para essas eleições podemos destacar algumas de suas propostas:</p>
 
                                     <ul>
                                         <li>
@@ -267,16 +228,7 @@
                                         aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <p>João Agripino da Costa Doria Júnior ou somente João Doria, muito antes de ficar
-                                        conhecido por seus programas televisivos, sua trajetória politica começa em 1983
-                                        assumindo o cargo
-                                        de Secretario municipal de turismo de São Paulo. Em 1984 participou da
-                                        manifestações das Diretas Já. Em 2001 ele se filia ao PSDB, porém, somente em
-                                        2016 ele se candidata a Prefeitura de São Paulo e se elege no primeiro turno com
-                                        53,29% dos votos, mandato marcado por algumas polemicas, mas em 2018 ele se
-                                        candidata ao cargo de Governador e vence no segundo turno contra seu adversário
-                                        Márcio França. No dia 23 de maio ele anuncia a desistência de sua
-                                        pré-candidatura a presidência.</p>
+                                    <p>João Agripino da Costa Doria Júnior ou somente João Doria, muito antes de ficar conhecido por seus programas televisivos, sua trajetória política começa em 1983 assumindo o cargo de secretário municipal de turismo de São Paulo. Em 1984 participou das manifestações das Diretas Já. Em 2001 ele se filia ao PSDB, porém, somente em 2016 ele se candidata à Prefeitura de São Paulo e se elege no primeiro turno com 53,29% dos votos, mandato marcado por algumas polemicas, mas em 2018 ele se candidata ao cargo de Governador e vence no segundo turno contra seu adversário Márcio França. No dia 23 de maio ele anuncia a desistência de sua pré-candidatura à presidência.</p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-secondary"
@@ -291,9 +243,11 @@
 
     </div>
     <p class="referencias-footer text-center m-0">
-        <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.html"
+        <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.php"
                 target="_blank">Referências dessa página</a></small>
     </p>
+
+    <p class="text-center m-0 my-2"><a href="presidente.php" class="btn btn-dark">Voltar ao topo</a></p>
 
     <?php include_once('php/footer.php'); ?>
 

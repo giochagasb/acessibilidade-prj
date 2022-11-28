@@ -22,20 +22,25 @@
 .navbar-dark .nav{
     --bs-nav-link-color:var(--corClaro);
 }
-
-
+.no-space{
+  padding: 0;
+  margin: 0;
+}
+.no-space li{
+  list-style: none;
+}
 
 #presidente .btn, #senado .btn {
   text-decoration: none;
-  background-color: #0d0d0d;
-  color: #FFF;
+  background-color: var(--corEscuro);
+  color: var(--corClaro);
   padding: 7px 18px;
   border-radius: 0;
 }
 
 #presidente .btn:hover, #senado .btn:hover {
-  background-color: #333;
-  color: #FFF;
+  background-color: var(--corCinzaEscuro);
+  color: var(--corClaro);
 }
 
 #funcoes{
@@ -69,7 +74,7 @@ font-weight: 600 !important;
     color: var(--corClaro);
   }
   .ancora-subir{
-    color: var(--corClaro)!important;
+    color: #ffffff!important;
   }
 
 
