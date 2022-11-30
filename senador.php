@@ -26,7 +26,7 @@
 
     <div class="container my-5 g-0">
         <div class="col-12">
-            <img src="imagens/camara.jpg" class="img-fluid rounded mx-auto d-block" alt="Foto camara dos Deputados"
+            <img src="imagens/senadores/camara.jpg" class="img-fluid rounded mx-auto d-block" alt="Foto camara dos Deputados"
                 id="camara-senado">
         </div>
         <div class="row p-4">
@@ -37,7 +37,7 @@
         </div>
         <div class="row d-flex justify-content-center">
             <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
-                <img src="imagens/sergio-moro.jpg" class="card-img-top" alt="Foto Sergio Moro">
+                <img src="imagens/senadores/sergio-moro.jpg" class="card-img-top" alt="Foto Sergio Moro">
                 <div class="card-body">
                     <h5 class="card-title text-center">Sergio Moro</h5>
                     <p class="card-text">Sérgio Fernando Moro ex-juiz da polícia federal ficou nacionalmente conhecido por atuar nos casos de grande destaque da Lava Jato</p>
@@ -70,7 +70,7 @@
                 </div>
             </div>
             <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
-                <img src="imagens/carlos-moises.jpg" class="card-img-top" alt="Foto Carlos Moises">
+                <img src="imagens/senadores/carlos-moises.jpg" class="card-img-top" alt="Foto Carlos Moises">
                 <div class="card-body">
                     <h5 class="card-title text-center">Carlos Moises</h5>
                     <p class="card-text">Carlos Moisés da Silva, possui como formação um bacharelado em direito; profissão que acabou não seguindo por força</p>
@@ -127,7 +127,7 @@
                 </div>
             </div>
             <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
-                <img src="imagens/flavia-arruda.jpg" class="card-img-top" alt="Fot Flávia Arruda">
+                <img src="imagens/senadores/flavia-arruda.jpg" class="card-img-top" alt="Fot Flávia Arruda">
                 <div class="card-body">
                     <h5 class="card-title text-center">Flávia Arruda</h5>
                     <p class="card-text">Flávia Carolina Péres, mais conhecida como Flávia Arruda, filiada ao
@@ -163,7 +163,7 @@
                 </div>
             </div>
             <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
-                <img src="imagens/marilia-arraes.jpg" class="card-img-top" alt="Foto Marília Arraes">
+                <img src="imagens/senadores/marilia-arraes.jpg" class="card-img-top" alt="Foto Marília Arraes">
                 <div class="card-body">
                     <h5 class="card-title text-center">Marília Arraes</h5>
                     <p class="card-text">Marília Valença Rocha Arraes de Alencarmais conhecida como Marília

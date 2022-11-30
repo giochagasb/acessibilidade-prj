@@ -579,13 +579,11 @@
             </div>
             <a href="#" class="ancora-subir">Ir para o início</a>
         </section>
-        <!-- <div style="position:relative;"> -->
-        <a class="botao-subir btn" aria-label="Ir para o início" href="#">↑</a>
-    <!-- </div> -->
+
     </main>
     <p class="referencias-footer text-center m-0">
         <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold"
-                href="referencias.html#Partidos" target="_blank">Referências dessa página</a></small>
+                href="referencias.php#Partidos" target="_blank">Referências dessa página</a></small>
     </p>
     <p class="text-center m-0 my-2"><a href="partidos.php" class="btn btn-dark">Voltar ao topo</a></p>
 

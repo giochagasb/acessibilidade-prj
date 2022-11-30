@@ -161,7 +161,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <img class="img-fluid" src="./imagens/urna-4-anos.jpg"
+                            <img class="img-fluid" src="imagens/cargos/urna-4-anos.jpg"
                                 alt="Urna eletrônica escrito: Mandato de 4 anos">
                         </div>
                     </div>
@@ -209,7 +209,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <img class="img-fluid" src="./imagens/urna-8-anos.jpg"
+                            <img class="img-fluid" src="imagens/cargos/urna-8-anos.jpg"
                                 alt="Urna eletrônica escrito: Mandato de 8 anos">
                         </div>
                     </div>
@@ -252,7 +252,7 @@
 
                         </div>
                         <div class="col-md-4">
-                            <img class="img-fluid" src="./imagens/urna-4-anos.jpg" alt="Urna eletrônica escrito: Mandato de 4 anos">
+                            <img class="img-fluid" src="imagens/cargos/urna-4-anos.jpg" alt="Urna eletrônica escrito: Mandato de 4 anos">
                         </div>
                     </div>
                 </div>
@@ -293,7 +293,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <img class="img-fluid" src="./imagens/carta-stf.jpg"
+                            <img class="img-fluid" src="imagens/cargos/carta-stf.jpg"
                                 alt="Decreto de Nomeação dos Ministros escrito: Mandato Vitalício e com o passo a passo: 1-Indicação do Presidente, 2-Aprovação do Senado, 3-Nomeação do Ministro. ">
                         </div>
                     </div>
