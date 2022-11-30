@@ -77,8 +77,6 @@ font-weight: 600 !important;
     color: #ffffff!important;
   }
 
-
-
   /* css página Linha do Tempo dos Presidentes */
 #linha_tempo {
     font-size: 1em;
@@ -106,4 +104,12 @@ font-weight: 600 !important;
   }
   #linha_tempo .linha_tempo_card_img {
     width: 40%;
+  }
+
+  .tamanho-img{
+    width: 17em!important;
+    height: 17em;
+  }
+  #contato .row>*{
+    padding-right: 0;
   }

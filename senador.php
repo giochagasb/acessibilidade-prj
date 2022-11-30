@@ -24,27 +24,26 @@
 
     <?php include_once('php/header.php'); ?>
 
-    <div class="container my-5 g-0">
-        <div class="col-12">
+    <div class="container my-5">
+        <div class="p-2">
             <img src="imagens/senadores/camara.jpg" class="img-fluid rounded mx-auto d-block" alt="Foto camara dos Deputados"
                 id="camara-senado">
         </div>
         <div class="row p-4">
-            <h1 class="text-center mb-4">Pré-Candidatos ao Senado</h1>
-            <p>Agora chegamos no momento de falar quem são os pré-candidatos para a eleição que acontecerá em outubro de 2022. Iremos listar alguns dos principais candidatos ao cargo de Senadores. Falaremos um pouco de suas trajetórias política.</p>
-            <p>Por se tratar de pré-candidatura até o presado momento não obtivemos informações sobre suas propostas, mas você pode conferir com mais detalhes quais são suas funções em nossa página <a href="cargos.php" id="funcoes">Cargos</a>.
-            </p>
+            <h1 class="text-center">Pré-Candidatos ao Senado</h1>
+            <p class="text-justify">Agora chegamos no momento de falar quem são os pré-candidatos para a eleição que acontecerá em outubro de 2022. Iremos listar alguns dos principais candidatos ao cargo de Senadores. Falaremos um pouco de suas trajetórias política.</p>
+            <p class="text-justify">Por se tratar de pré-candidatura até o presado momento não obtivemos informações sobre suas propostas, mas você pode conferir com mais detalhes quais são suas funções em nossa página <a href="cargos.php" id="funcoes">Cargos</a>.</p>
         </div>
-        <div class="row d-flex justify-content-center">
-            <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
+        <div class="d-flex flex-column align-items-center flex-md-row justify-content-md-between">
+            <div class="card m-1" style="width: 270px;">
                 <img src="imagens/senadores/sergio-moro.jpg" class="card-img-top" alt="Foto Sergio Moro">
-                <div class="card-body">
+                <div class="card-body text-center">
                     <h5 class="card-title text-center">Sergio Moro</h5>
                     <p class="card-text">Sérgio Fernando Moro ex-juiz da polícia federal ficou nacionalmente conhecido por atuar nos casos de grande destaque da Lava Jato</p>
                 </div>
                 <ul class="list-group list-group-flush">
                 </ul>
-                <div class="card-body">
+                <div class="card-body text-center">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#modal-1">
                         Veja mais
                     </button>
@@ -69,15 +68,15 @@
                     </div>
                 </div>
             </div>
-            <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
+            <div class="card m-1" style="width: 270px;">
                 <img src="imagens/senadores/carlos-moises.jpg" class="card-img-top" alt="Foto Carlos Moises">
-                <div class="card-body">
+                <div class="card-body text-center">
                     <h5 class="card-title text-center">Carlos Moises</h5>
-                    <p class="card-text">Carlos Moisés da Silva, possui como formação um bacharelado em direito; profissão que acabou não seguindo por força</p>
+                    <p class="card-text">Carlos Moisés da Silva, possui como formação um bacharelado em direito, profissão que acabou não seguindo por força das circunstâncias.</p>
                 </div>
                 <ul class="list-group list-group-flush">
                 </ul>
-                <div class="card-body">
+                <div class="card-body text-center">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#Modal-2">
                         Veja mais
                     </button>
@@ -91,9 +90,7 @@
                                         aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <p>Carlos Moisés da Silva, possui como formação um bacharelado em direito;
-                                        profissão que acabou não seguindo por
-                                        força das circunstâncias. Iniciou a sua carreira profissional como
+                                    <p>Carlos Moisés da Silva, possui como formação um bacharelado em direito, profissão que acabou não seguindo por força das circunstâncias. Iniciou a sua carreira profissional como
                                         membro do Corpo de Bombeiros Militar de
                                         Santa Catarina (de 1987 a 1990), após ter concluído o Curso de Formação
                                         de Oficiais da Academia de Polícia.
@@ -126,9 +123,9 @@
                     </div>
                 </div>
             </div>
-            <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
+            <div class="card m-1" style="width: 270px;">
                 <img src="imagens/senadores/flavia-arruda.jpg" class="card-img-top" alt="Fot Flávia Arruda">
-                <div class="card-body">
+                <div class="card-body text-center">
                     <h5 class="card-title text-center">Flávia Arruda</h5>
                     <p class="card-text">Flávia Carolina Péres, mais conhecida como Flávia Arruda, filiada ao
                         Partido Liberal (PL) e presidente da
@@ -136,7 +133,7 @@
                 </div>
                 <ul class="list-group list-group-flush">
                 </ul>
-                <div class="card-body">
+                <div class="card-body text-center">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#Modal-3">
                         Veja mais
                     </button>
@@ -162,9 +159,9 @@
                     </div>
                 </div>
             </div>
-            <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
+            <div class="card m-1" style="width: 270px;">
                 <img src="imagens/senadores/marilia-arraes.jpg" class="card-img-top" alt="Foto Marília Arraes">
-                <div class="card-body">
+                <div class="card-body text-center">
                     <h5 class="card-title text-center">Marília Arraes</h5>
                     <p class="card-text">Marília Valença Rocha Arraes de Alencarmais conhecida como Marília
                         Arraes, é uma advogada e política
@@ -172,7 +169,7 @@
                 </div>
                 <ul class="list-group list-group-flush">
                 </ul>
-                <div class="card-body">
+                <div class="card-body text-center">
                     <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#Modal-4">
                         Veja mais
                     </button>

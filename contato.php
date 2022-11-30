@@ -51,18 +51,18 @@
             <div class="container my-5 g-0">
         <article>
             <h1 class="text-center">Quem Somos</h1>
-            <div class="row d-flex flex-row justify-content-evenly align-items-center align-self-center">
-                <img src="imagens/ufc.png" class="img-fluid img-thumbnail col-sm-4 col-md-4 col-lg-3" alt="Logo do Grupo">
-                <p class="col-sm-12 col-md-8 col-lg-7">Somos os Ursinhos Felizes em Chamas, mas pode nos chamar por UFC, o grupo é formado por Daniel, Jaquelini, José Guilherme, Sthefani e Giovana, um grupo novo com quatro pessoas totalmente distintas e que até então não tinham trabalhados juntos, mas com o mesmo intuito de trabalho, fazer um portal informativo, um portal onde o eleitor possa entender melhor sobre o modelo político de nosso país, quais as funções de cada cargo e seus futuros candidatos, para que ele saia mais consciente do valor de seu voto. E essa foi a nossa meta desde a primeira reunião, todos respectivos para as propostas de ideias, ajudando uns aos outros em suas dificuldades para que o resultado seja o melhor possível para você leitor, abaixo você encontrará mais sobre cada um dos membros, curiosidades, funções etc.
+            <div class="border border-1 d-flex flex-md-row flex-column align-items-center">
+                <img src="imagens/equipe/ufc.png" class="img-fluid img-thumbnail col-sm-4 col-md-4 col-lg-3 border-0" alt="Logo do Grupo">
+                <p class="p-md-4 p-2 text-justify">Somos os Ursinhos Felizes em Chamas, mas pode nos chamar por UFC, o grupo é formado por Daniel, Jaquelini, José Guilherme, Sthefani e Giovana, um grupo novo com quatro pessoas totalmente distintas e que até então não tinham trabalhados juntos, mas com o mesmo intuito de trabalho, fazer um portal informativo, um portal onde o eleitor possa entender melhor sobre o modelo político de nosso país, quais as funções de cada cargo e seus futuros candidatos, para que ele saia mais consciente do valor de seu voto. E essa foi a nossa meta desde a primeira reunião, todos respectivos para as propostas de ideias, ajudando uns aos outros em suas dificuldades para que o resultado seja o melhor possível para você leitor, abaixo você encontrará mais sobre cada um dos membros, curiosidades, funções etc.
                 </p>
                 
             </div>
         </article>
-        <aside class="row d-flex justify-content-center align-items-start p-4">
+        <aside class="row d-flex justify-content-center align-items-start">
 
         <div class="row row-cols-1 row-cols-md-7 g-4">
-            <div class="col card" style="flex-direction: row;">
-                    <img class="img-fluid w-50 p-4" src="imagens/daniel.jpg" alt="Daniel">
+            <div class="col card d-flex flex-md-row ">
+                    <img class="img-fluid w-50 p-4 tamanho-img m-auto" src="imagens/daniel.jpg" alt="Daniel">
                 <div>
                     <div class="card-body px-4 py-2 p-0">
                        <p class="card-text">Daniel</p>
@@ -81,8 +81,8 @@
         </div>    
 
         <div class="row row-cols-1 row-cols-md-7 g-4">
-            <div class="col card" style="flex-direction: row;">
-                    <img class="img-fluid w-50 p-4" src="imagens/jaquelini.jpg" alt="integrante do grupo, Jaquelini">
+            <div  class="col card d-flex flex-md-row">
+                    <img class="img-fluid w-50 p-4 tamanho-img m-auto" src="imagens/jaquelini.jpg" alt="integrante do grupo, Jaquelini">
                 <div>
                     <div class="card-body px-4 py-2 p-0">
                          <p class="card-text">Jaquelini</p>
@@ -100,8 +100,8 @@
         </div>    
 
         <div class="row row-cols-1 row-cols-md-7 g-4">
-            <div class="col card" style="flex-direction: row;">
-                    <img class="img-fluid w-50 p-4" src="imagens/gui.jpg" alt="integrante do grupo, José Guilherme">
+            <div  class="col card d-flex flex-md-row">
+                    <img class="img-fluid w-50 p-4 tamanho-img m-auto" src="imagens/gui.jpg" alt="integrante do grupo, José Guilherme">
                 <div>
                     <div class="card-body px-4 py-2 p-0">
                         <p class="card-text">José Guilherme</p>
@@ -118,8 +118,8 @@
         </div>  
 
         <div class="row row-cols-1 row-cols-md-7 g-4">
-            <div class="col card" style="flex-direction: row;">
-                    <img class="img-fluid w-50 p-4" src="imagens/sthe.jpg" alt="integrante do grupo, Sthefani">
+            <div  class="col card d-flex flex-md-row">
+                    <img class="img-fluid w-50 p-4 tamanho-img m-auto" src="imagens/sthe.jpg" alt="integrante do grupo, Sthefani">
                 <div>
                     <div class="card-body px-4 py-2 p-0">
                         <p class="card-text">Sthefani</p>
@@ -137,15 +137,15 @@
         </div> 
 
         <div class="row row-cols-md-1 g-3">
-            <div class="col card" style="flex-direction: row;">
-                    <img class="img-fluid w-50 p-4" src="imagens/giovana.jpg" alt="integrante do grupo, Giovana">
+            <div  class="col card d-flex flex-md-row">
+                    <img class="img-fluid w-50 p-4 tamanho-img m-auto" src="imagens/giovana.jpg" alt="integrante do grupo, Giovana">
                 <div>
                     <div class="card-body px-4 py-2 p-0">
                         <p class="card-text py-3">Giovana</p>
                         <p class="card-text">A integrante agregada. Nas horas vagas gosta de pensar em todos os problemas e se deseperar como se não houvesse amanhã. Tem a risada mais alta do grupo e sempre tenta não incomodar. Se possivel, sempre focada nas tarefas a fazer e quase nunca falta as aulas.</p>
                         <p class="card-text">RA: 2650832123032</p>
                         <p class="card-text">Função do Grupo: Ajudante de git, surtada pelo codigo não funcionar, xingadora oficial de tudo</p>
-                        <ul>
+                        <ul class="no-space">
                             <li><a href="cidadania.php">Cidadania</a></li>
                             <li><a href="contato.php">Contato</a></li>
                         </ul>
