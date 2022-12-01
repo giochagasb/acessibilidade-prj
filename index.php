@@ -121,7 +121,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <a href="tripartite.html">
+                                <a href="tripartite.php">
                                     <h5 class="card-title">Tripartite</h5>
                                 </a>
                                 <p class="card-text">Clique para saber mais o que os três poderes politicos fazem</p>
